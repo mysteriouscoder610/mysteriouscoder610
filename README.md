@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ayush Jha</h1>
-<h3 align="center">"An enthusiastic Python developer from India with a strong foundation in data structures and algorithms (DSA). I actively participate in competitive programming, constantly refining my problem-solving skills. In addition to Python, I have a keen interest in machine learning, where I apply my knowledge to build intelligent solutions."</h3>
+<h3 align="center">"An enthusiastic Python developer with a strong foundation in data structures and algorithms. I actively participate in competitive programming, constantly refining my problem-solving skills. In addition to Python, I have a keen interest in machine learning, where I apply my knowledge to build intelligent solutions."</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
