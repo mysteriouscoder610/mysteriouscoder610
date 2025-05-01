@@ -135,8 +135,8 @@ class AyushJha:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mysteriouscoder610&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   <br/><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysteriouscoder610&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=mysteriouscoder610&theme=react-dark&hide_border=true" width="56%" alt="Activity Graph" />
+<!--   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysteriouscoder610&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mysteriouscoder610&theme=react-dark&hide_border=true" width="56%" alt="Activity Graph" /> -->
 </div>
 
 ## 🔗 Connect With Me
