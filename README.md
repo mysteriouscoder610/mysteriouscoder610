@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mystery-code/mysteriouscoder610/raw/output/profile-name-banner.svg" alt="Header Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Jha&fontSize=90&fontColor=fff&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
@@ -136,7 +136,7 @@ class AyushJha:
   <img src="https://github-profile-trophy.vercel.app/?username=mysteriouscoder610&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
   <br/><br/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mysteriouscoder610&layout=compact&theme=radical&hide_border=true" width="42%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mysteriouscoder610&theme=radical" width="56%" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=mysteriouscoder610&theme=react-dark&hide_border=true" width="56%" alt="Activity Graph" />
 </div>
 
 ## 🔗 Connect With Me
