@@ -1,25 +1,98 @@
-<h1 align="center">Hey 👋, I'm Ayush Jha</h1>
-<h3 align="center">"An enthusiastic Python developer with a strong foundation in data structures and algorithms. I actively participate in competitive programming, constantly refining my problem-solving skills. In addition to Python, I have a keen interest in machine learning, where I apply my knowledge to build intelligent solutions."</h3>
+# <div align="center">👨‍💻 Ayush Jha | Python Developer & ML Enthusiast</div>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=650&lines=Competitive+Programmer;Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+  
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mysteriouscoder610&label=Profile%20views&color=0e75b6&style=flat" alt="mysteriouscoder610" /> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mysteriouscoder610&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriouscoder610&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak"/>
+</div>
 
-- 🌱 I’m currently learning **Open CV, Machine learning and Databases**
+<br/>
 
-- 📫 How to reach me **jha2004ayush@gmail.com**
+## 💫 About Me
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1Ndq_nDLG9E0kiRElBk4uUF_oZ-FxSLNP/view)
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Ayush Jha"
+        self.learning = ["OpenCV", "Machine Learning", "Databases"]
+        self.interests = ["Competitive Programming", "Algorithm Design", "Data Structures"]
+        self.email = "jha2004ayush@gmail.com"
+        
+    def current_focus(self):
+        return "Building intelligent solutions with Python and ML"
+```
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayushjha6104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushjha6104" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsayush61o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsayush61o" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/its_ayush_610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="its_ayush_610" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/its_ayush_610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="its_ayush_610" height="30" width="40" /></a>
-</p>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350px" align="right"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌱 Currently expanding my knowledge in **OpenCV, Machine Learning, and Databases**
+- 💻 Passionate about algorithmic problem solving and competitive programming
+- 📊 Building data-driven solutions with Python and ML frameworks
+- 📝 [Resume](https://drive.google.com/file/d/1Ndq_nDLG9E0kiRElBk4uUF_oZ-FxSLNP/view)
+- 📫 Reach me at: **jha2004ayush@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriouscoder610&" alt="mysteriouscoder610" /></p>
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+<br/>
+
+## 🏆 Coding Profiles
+
+<div align="center">
+  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://www.leetcode.com/its_ayush_610)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/itsayush61o)
+  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/its_ayush_610)
+  
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mysteriouscoder610&theme=tokyonight" width="100%" />
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushjha6104)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jha2004ayush@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mysteriouscoder610&label=Profile%20Views&color=6A5ACD&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/mysteriouscoder610/mysteriouscoder610/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
