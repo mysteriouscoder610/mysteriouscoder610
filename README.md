@@ -69,17 +69,8 @@ class AyushJha:
 <a href="https://www.w3schools.com/css/" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
 </a> 
-<a href="https://www.javascript.com/" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-</a> 
-<a href="https://www.r-project.org/" target="_blank">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="r"/>
-</a>
 
 <h3>Web Frameworks & APIs</h3>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-</a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="fastapi"/>
 </a> 
@@ -157,16 +148,10 @@ class AyushJha:
 <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-</a>
 
 <h3>Data Visualization & BI</h3>
 <a href="https://www.tableau.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="tableau"/>
-</a>
-<a href="https://powerbi.microsoft.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="powerbi"/>
 </a>
 <a href="https://streamlit.io/" target="_blank">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="streamlit"/>
@@ -181,9 +166,6 @@ class AyushJha:
 </a>
 <a href="https://www.docker.com/" target="_blank">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
-</a>
-<a href="https://mlflow.org/" target="_blank">
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="mlflow"/>
 </a>
 
 <h3>Development Tools</h3>
