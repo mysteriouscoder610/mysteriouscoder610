@@ -28,9 +28,9 @@ class AyushJha:
     def __init__(self):
         self.name = "Ayush Jha"
         self.role = "Python Developer"
-        self.learning = ["OpenCV", "Machine Learning", "Databases"]
+        self.learning = ["Generative AI", "Deep learning Learning", "Databases"]
         self.interests = ["Competitive Programming", 
-                         "Algorithm Design", 
+                         "Agentic AI", 
                          "Data Structures"]
         
     def say_hi(self):
