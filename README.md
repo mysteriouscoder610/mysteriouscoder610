@@ -44,7 +44,7 @@ class AyushJha:
 - 🌱 Learning advanced concepts in **OpenCV, Machine Learning, and Databases**
 - 💡 I love solving complex problems through elegant code solutions
 - 🏆 Active participant in coding competitions and hackathons
-- 📝 Check out my [Resume](https://drive.google.com/file/d/1Ndq_nDLG9E0kiRElBk4uUF_oZ-FxSLNP/view)
+- 📝 Check out my [Resume](https://drive.google.com/file/d/1vqLUBH2Gq3NXYiBDh7JkUUgK04HzBLoS/view?usp=drivesdk)
 - 📫 Reach me at: **jha2004ayush@gmail.com**
 
 <br/>
