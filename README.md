@@ -1,18 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ayush%20Jha&fontSize=90&fontColor=fff&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Python+Developer;ML+Enthusiast;Competitive+Programmer;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=440&height=45&color=6A5ACD&vCenter=true&size=22&pause=1000)](https://git.io/typing-svg)
-  
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
-</p>
-
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mysteriouscoder610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mysteriouscoder610&theme=tokyonight&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
 </div>
